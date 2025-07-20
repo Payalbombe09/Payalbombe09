@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Payal Bombe</h1>
-<h3 align="center">A passionate 3rd-year Computer Engineering student at DMCE.</h3>
+<h3 align="center">A passionate 4th-year Computer Engineering student at DMCE.</h3>
 
 - 🔭 I’m currently working on **Backend development projects using Python and Django.**
 
